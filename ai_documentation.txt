@@ -1,0 +1,6 @@
+
+
+
+Used ChatGPT to find where to place “from ligotools import readligo as rl” and fix the import path.
+
+Used ChatGPT to ask what, how, and why a “proper Python package” to understand. To make python package, GPT said init.py require as a package allows importing module without error.
