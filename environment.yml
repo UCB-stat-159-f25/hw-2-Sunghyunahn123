@@ -3,11 +3,10 @@ channels:
     - conda-forge
     - defaults
 dependencies: 
-    - python=3.1         # notebook version 
-    - ipykernel=6.2       # jupyter kernel
+    - python=3.9         # notebook version 
+    - ipykernel=6.29       # jupyter kernel
     - numpy=2.0            # decorator + scientific lib ~
-    - scipy=1.1
+    - scipy=1.13
     - matplotlib=3.9
-    - h5py=3.1
+    - h5py=3.12
     - decorator=5.1        
-    - pandas
