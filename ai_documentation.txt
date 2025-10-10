@@ -1,8 +1,10 @@
 
 
-
-Used ChatGPT to find where to place “from ligotools import readligo as rl” and fix the import path.
-
 Used ChatGPT to ask what, how, and why a “proper Python package” to understand. To make python package, GPT said init.py require as a package allows importing module without error.
 
-I had suffered a issue with conda environment file (environment.yml), It took forever to install and creating environment (I was in infinite loop of loading.) Chatgpt suggest the view that maybe version is problem, and that's why loading and solving environment step kept fail. so I looked up what's proper version of python and scientific lib, and it work.  
+I had suffered a issue with conda environment file (environment.yml), It took forever to install and creating environment (I was in infinite loop of loading.) Chatgpt suggest the view that maybe version is problem, and that's why loading and solving environment step kept fail. so I looked up what's proper version of python and scientific lib, and it work.
+
+
+I used GPT to understand how to fix scipy package issue in LIGO tutorial notebook
+I wasn't sure how to update the deprecated functions (tukey and blackman)
+so I ask chatgpt for guidance ( what why how )
